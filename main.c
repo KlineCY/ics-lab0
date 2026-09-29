@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-    // @TODO: print a sentence you want.
-    printf("Hello, world!\n");
+    printf("ICS Lab0: baseline message.\n");
+    return 0;
 }
